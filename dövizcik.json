@@ -1,0 +1,678 @@
+{"doviz_kuru":[
+	{
+	"selling":"4.7987",
+	"update_date":"1531388992",
+	"currency":"1",
+	"buying":"4.7968",
+	"change_rate":"-1.5994422457809",
+	"name":"amerikan-dolari",
+	"full_name":"Amerikan Doları",
+	"code":"USD"
+	},
+	{
+	"selling":"5.6101",
+	"update_date":"1531388995",
+	"currency":"2",
+	"buying":"5.6078",
+	"change_rate":"-1.5193139827794",
+	"name":"euro",
+	"full_name":"Euro",
+	"code":"EUR"
+	},
+	{
+	"selling":"6.3496",
+	"update_date":"1531388997",
+	"currency":"3",
+	"buying":"6.3461",
+	"change_rate":"-1.4236256656265",
+	"name":"sterlin",
+	"full_name":"İngiliz Sterlini",
+	"code":"GBP"
+	},
+	{
+	  "selling":"4.814105136436",
+	  "update_date":"1531388991",
+	  "currency":"7",
+	  "buying":"4.8107511784174",
+	  "change_rate":"0.12049402550457",
+	  "name":"isvicre-frangi",
+	  "full_name":"İsviçre Frangı",
+	  "code":"CHF"
+	},
+	{
+	  "selling":"3.636480751743",
+	  "update_date":"1531388999",
+	  "currency":"4",
+	  "buying":"3.6347654770023",
+	  "change_rate":"-0.10597229581408",
+	  "name":"kanada-dolari",
+	  "full_name":"Kanada Doları",
+	  "code":"CAD"
+	},
+	{
+	  "selling":"0.077262181348043",
+	"update_date":"1531389003",
+	"currency":"12",
+	"buying":"0.0772190330235",
+	"change_rate":"-0.47360410157815",
+	"name":"rus-rublesi",
+	"full_name":"Rus Rublesi",
+	"code":"RUB"
+	},
+	{
+	  "selling":"1.3194924714787",
+	  "update_date":"1531380221",
+	  "currency":"10",
+	  "buying":"1.3190133943156",
+	  "change_rate":"0.0068065179215579",
+	  "name":"birlesik-arap-emirlikleri-dirhemi",
+	  "full_name":"B.A.E. Dirhemi",
+	  "code":"AED"
+	},
+	{
+	  "selling":"3.54192047",
+	  "update_date":"1531388981",
+	  "currency":"11",
+	  "buying":"3.54147744",
+	  "change_rate":"-0.22348638764729",
+	  "name":"avustralya-dolari",
+	  "full_name":"Avustralya Doları",
+	  "code":"AUD"
+	},
+	{
+	  "selling":"0.75164074369939",
+	  "update_date":"1531389007",
+	  "currency":"5",
+	  "buying":"0.75129606716056",
+	  "change_rate":"-0.0093965827760697",
+	  "name":"danimarka-kronu",
+	  "full_name":"Danimarka Kronu",
+	  "code":"DKK"},
+	  {
+	    "selling":"0.54192593931044",
+	    "update_date":"1531389009",
+	    "currency":"6",
+	    "buying":"0.5415584708831",
+	    "change_rate":"0.38590784679289",
+	    "name":"isvec-kronu",
+	    "full_name":"İsveç Kronu",
+	    "code":"SEK"
+	 },
+	 {
+	   "selling":"0.59179646552468",
+	   "update_date":"1531389003",
+	   "currency":"8",
+	   "buying":"0.59143815348195",
+	   "change_rate":"-0.0043152606109076",
+	   "name":"norvec-kronu",
+	   "full_name":"Norveç Kronu",
+	   "code":"NOK"
+	 },
+	 {
+	   "selling":"4.2678501547547",
+	   "update_date":"1531388979",
+	   "currency":"9",
+	   "buying":"4.2662622956652",
+	   "change_rate":"0.38479737873526",
+	   "name":"japon-yeni",
+	   "full_name":"Japon Yeni",
+	   "code":"JPY"
+	 },
+	 {
+	   "selling":"15.915069398546",
+	   "update_date":"1531380297",
+	   "currency":"13",
+	   "buying":"15.804990151018",
+	   "change_rate":"0.42861852950873",
+	   "name":"kuveyt-dinari",
+	   "full_name":"Kuveyt Dinarı",
+	   "code":"KWD"
+	 },
+	 {
+	   "selling":"0.35643932078499",
+	   "update_date":"1531388979",
+	   "currency":"14",
+	   "buying":"0.35620456385009",
+	   "change_rate":"-0.54613330970079",
+	   "name":"guney-afrika-randi",
+	   "full_name":"Güney Afrika Randı",
+	   "code":"ZAR"
+	 },
+	 {
+	   "selling":"12.829928362961",
+	   "update_date":"1531375790",
+	   "currency":"15",
+	   "buying":"12.819411296738",
+	   "change_rate":"-0.50131926121372",
+	   "name":"bahreyn-dinari",
+	   "full_name":"Bahreyn Dinarı",
+	   "code":"BHD"
+	 },
+	 {
+	   "selling":"3.5911319236116",
+	   "update_date":"1531366282",
+	   "currency":"16",
+	   "buying":"3.5665720317391",
+	   "change_rate":"0.25543716245802",
+	   "name":"libya-dinari",
+	   "full_name":"Libya Dinarı",
+	   "code":"LYD"},
+	   {
+	     "selling":"1.2878856563825",
+	     "update_date":"1531380172",
+	     "currency":"17",
+	     "buying":"1.2870207433477",
+	     "change_rate":"0.005332764505118",
+	     "name":"suudi-arabistan-riyali",
+	     "full_name":"S. Arabistan Riyali",
+	     "code":"SAR"
+	   },
+	   {
+	     "selling":"0.0040970588235294",
+	     "update_date":"1531342552",
+	     "currency":"18",
+	     "buying":"0.0040875838926174",
+	     "change_rate":"0.083963056255248",
+	     "name":"irak-dinari",
+	     "full_name":"Irak Dinarı",
+	     "code":"IQD"
+	   },
+	   {
+	     "selling":"1.3142661555312",
+	     "update_date":"1531388932",
+	     "currency":"20",
+	     "buying":"1.312585499316",
+	     "change_rate":"0.14521741513",
+	     "name":"israil-sekeli",
+	     "full_name":"İsrail Sekeli",
+	     "code":"ILS"
+	   },
+	   {
+	     "selling":"0.00011323917573512",
+	     "update_date":"1531369632",
+	     "currency":"19",
+	     "buying":"0.00011296947271045",
+	     "change_rate":"0.26666666666667",
+	     "name":"iran-riyali",
+	     "full_name":"İran Riyali",
+	     "code":"IRR"
+	   },
+	   {
+	     "selling":"0.069942790511241",
+	     "update_date":"1531388979",
+	     "currency":"21",
+	     "buying":"0.069907822348526",
+	     "change_rate":"-0.27975584944048",
+	     "name":"hindistan-rupisi",
+	     "full_name":"Hindistan Rupisi",
+	     "code":"INR"
+	   },
+	   {
+	     "selling":"0.25257118795726",
+	     "update_date":"1531388981",
+	     "currency":"22",
+	     "buying":"0.2523940312329",
+	     "change_rate":"-0.39045916950121",
+	     "name":"meksika-pesosu",
+	     "full_name":"Meksika Pesosu",
+	     "code":"MXN"
+	   },
+	   {
+	     "selling":"0.017226748985965",
+	     "update_date":"1531388967",
+	     "currency":"23",
+	     "buying":"0.017206715935998",
+	   "change_rate":"-0.0035874439461851",
+	     "name":"macar-forinti",
+	     "full_name":"Macar Forinti",
+	     "code":"HUF"
+	   },
+	   {
+	     "selling":"3.2465160330131",
+	     "update_date":"1531388880",
+	     "currency":"24",
+	     "buying":"3.242833964305",
+	   "change_rate":"-0.047300493276568",
+	     "name":"yeni-zelanda-dolari",
+	     "full_name":"Yeni Zelanda Doları",
+	     "code":"NZD"
+	      },
+	      {
+	        "selling":"1.265435601176",
+	        "update_date":"1531348201",
+	        "currency":"25",
+	        "buying":"1.2648545492057",
+	        "change_rate":"0.083885038780698",
+	        "name":"brezilya-reali",
+	        "full_name":"Brezilya Reali",
+	        "code":"BRL"
+	        },
+	        {
+	         "selling":"0.0003335210288495",
+	          "update_date":"1531386638",
+	          "currency":"26",
+	         "buying":"0.0003331434525877",
+	     "change_rate":"0.066038719543985",
+	          "name":"endonezya-rupiahi",
+	       "full_name":"Endonezya Rupiahi",
+	          "code":"IDR"
+	        },
+	        {
+	          "selling":"0.21611032047702",
+	          "update_date":"1531388982",
+	          "currency":"27",
+	          "buying":"0.2159229017186",
+	          "change_rate":"-0.027450398030771",
+	          "name":"cek-korunasi",
+	          "full_name":"Çek Korunası",
+	          "code":"CSK"
+	        },
+	        {
+	          "selling":"1.2941906251686",
+	          "update_date":"1531388979",
+	          "currency":"28",
+	          "buying":"1.2931043778305",
+	          "change_rate":"-0.2406852133224",
+	          "name":"polonya-zlotisi",
+	         "full_name":"Polonya Zlotisi",
+	          "code":"PLN"
+	        },
+	        {
+	          "selling":"1.5292319619",
+	          "update_date":"1438174813",
+	          "currency":"29",
+	          "buying":"1.52108539945",
+	          "change_rate":"-0.20618556701",
+	          "name":"bulgar-levasi",
+	          "full_name":"Bulgar Levası",
+	          "code":"BGN"
+	        },
+	        {
+	          "selling":"1.2038635223281",
+	          "update_date":"1531388977",
+	          "currency":"30",
+	          "buying":"1.2005756476036",
+	          "change_rate":"0.11526222155403",
+	          "name":"romen-leyi",
+	          "full_name":"Romanya Leyi",
+	          "code":"RON"
+	        },
+	        {
+	          "selling":"0.72007803121249",
+	          "update_date":"1531388978",
+	          "currency":"31",
+	          "buying":"0.7192832508622",
+	     "change_rate":"-0.17811971440975",
+	          "name":"cin-yuani",
+	          "full_name":"Çin Yuanı",
+	          "code":"CNY"
+	        },
+	        {
+	          "selling":"0.17947123998976",
+	          "update_date":"1531366282",
+	          "currency":"32",
+	          "buying":"0.17912401286926",
+	       "change_rate":"0.0091409349348298",
+	          "name":"arjantin-pesosu",
+	         "full_name":"Arjantin Pesosu",
+	          "code":"ARS"
+	        },
+	        {
+	          "selling":"0.045240130051091",
+	          "update_date":"1531339554",
+	          "currency":"33",
+	          "buying":"0.04493585602215",
+	          "change_rate":"0.743840074384",
+	          "name":"arnavutluk-leki",
+	         "full_name":"Arnavutluk Leki",
+	          "code":"ALL"
+	        },
+	        {
+	          "selling":"2.7821712268314",
+	          "update_date":"1531220248",
+	          "currency":"34",
+	          "buying":"2.7785357247868",
+	          "change_rate":"0.029411764705879",
+	          "name":"azerbaycan-manati",
+	          "full_name":"Azerbaycan Manatı",
+	          "code":"AZN"
+	       },
+	       {
+	         "selling":"2.8615531318911",
+	         "update_date":"1531388400",
+	         "currency":"35",
+	         "buying":"2.8552130445132",
+	         "change_rate":"0.10425043934113",
+	         "name":"bosna-hersek-marki",
+	         "full_name":"Bosna-Hersek Markı",
+	         "code":"BAM"
+	       },
+	       {
+	         "selling":"0.00018748751248751",
+	         "update_date":"1517146041",
+	         "currency":"36",
+	         "buying":"0.00018714392616613",
+	         "change_rate":"0.062398602271309",
+	         "name":"belarus-rublesi",
+	         "full_name":"Belarus Rublesi",
+	         "code":"BYR"
+	       },
+	       {
+	         "selling":"0.0074652570290355",
+	         "update_date":"1531342046",
+	         "currency":"37",
+	         "buying":"0.0074451415455241",
+	         "change_rate":"0.8052076263343",
+	         "name":"sili-pesosu",
+	         "full_name":"Şili Pesosu",
+	         "code":"CLP"
+	       },
+	       {
+	         "selling":"0.001670801658604",
+	         "update_date":"1531378807",
+	         "currency":"38",
+	         "buying":"0.0016679212707182",
+	         "change_rate":"0.03454231433506",
+	     "name":"kolombiya-pesosu",
+	   "full_name":"Kolombiya Pesosu",
+	         "code":"COP"
+	       },
+	       {
+	         "selling":"0.0086941270263088",
+	         "update_date":"1531366387",
+	         "currency":"39",
+	         "buying":"0.0085298981634607",
+	         "change_rate":"0.87804021424181",
+	         "name":"kostarika-kolonu",
+	         "full_name":"Kostarika Kolonu","code":"CRC"
+	         
+	       },
+	       {
+	         "selling":"0.04119813154216",
+	         "update_date":"1531380298",
+	         "currency":"40",
+	         "buying":"0.040489121324885",
+	        "change_rate":"0.75577811367916",
+          "name":"cezayir-dinari",
+	         "full_name":"Cezayir Dinarı",
+          "code":"DZD"
+	       },
+	       {
+	         "selling":"0.2693288590604",
+	         "update_date":"1531380178",
+	         "currency":"41",
+	         "buying":"0.26823627751463",
+	         "change_rate":"0.34950370473927",
+	         "name":"misir-lirasi",
+	         "full_name":"Mısır Lirası","code":"EGP"
+	      },
+	      {
+	        "selling":"0.61144240570846",
+	        "update_date":"1531388977",
+	        "currency":"42",
+	        "buying":"0.61119463839764",
+	        "change_rate":"0.0012741612833323",
+	        "name":"hong-kong-dolari",
+	        "full_name":"Hong Kong Doları",
+	        "code":"HKD"
+	      },
+	      {
+	        "selling":"0.75843815182353"
+	        ,
+	        "update_date":"1531388941",
+	        "currency":"43",
+	        "buying":"0.75689448441247",
+	        "change_rate":"0.053670086819259",
+	        "name":"hirvat-kunasi",
+	        "full_name":"Hırvat Kunası",
+	        "code":"HRK"
+	      },
+	      {"selling":"0.045411655011655",
+	      "update_date":"1531339557",
+	      "currency":"44",
+	      "buying":"0.045192754296331",
+	      "change_rate":"0.56048575432042",
+	      "name":"izlanda-kronasi",
+	      "full_name":"İzlanda Kronası",
+	      "code":"ISK"
+	      },
+	      {
+	        "selling":"6.821736062103",
+	        "update_date":"1531380227",
+	        "currency":"45",
+	        "buying":"6.8043661971831",
+	        "change_rate":"0.021131224906668",
+	        "name":"urdun-dinari",
+	        "full_name":"Ürdün Dinarı",
+	        "code":"JOD"
+	     },
+	     {
+	       "selling":"0.0042645883293365",
+	       "update_date":"1531388527",
+	       "currency":"46",
+	       "buying":"0.0042611012433393",
+	       "change_rate":"0",
+	       "name":"guney-kore-wonu",
+	       "full_name":"Güney Kore Wonu",
+	       "code":"KRW"
+	     },
+	     {
+	       "selling":"0.014028047966087",
+	       "update_date":"1531376161",
+	       "currency":"47",
+	       "buying":"0.014023398943274",
+	       "change_rate":"0.19634364501068",
+	       "name":"kazak-tengesi",
+	       "full_name":"Kazak Tengesi",
+	       "code":"KZT"
+	     },
+	     {
+	       "selling":"0.00326073089701",
+	       "update_date":"1531366391",
+	       "currency":"48",
+	       "buying":"0.0032407407407407",
+	       "change_rate":"0.23201856148492",
+	       "name":"lubnan-lirasi",
+	       "full_name":"Lübnan Lirası",
+	       "code":"LBP"
+        },
+        {
+          "selling":"0.030141242937853",
+          "update_date":"1531388527",
+          "currency":"49",
+          "buying":"0.030081504702194",
+          "change_rate":"0.094132412927522",
+          "name":"sri-lanka-rupisi",
+          "full_name":"Sri Lanka Rupisi",
+          "code":"LKR"
+          
+        },
+        {
+          "selling":"0.976009878285",
+          "update_date":"1438151715",
+          "currency":"50",
+          "buying":"0.974000352299",
+          "change_rate":"-0.539612460142",
+          "name":"litvanya-litasi",
+          "full_name":"Litvanya Litası",
+          "code":"LTL"
+          
+        },
+        {
+          "selling":"5.43639228043",
+          "update_date":"1438117198",
+          "currency":"51",
+          "buying":"5.40113547377",
+          "change_rate":"-2.05177372963",
+          "name":"letonya-latsi",
+          "full_name":"Letonya Latsı",
+          "code":"LVL"
+          
+        },
+        {
+          "selling":"0.51037195237995",
+          "update_date":"1531380297",
+          "currency":"52",
+          "buying":"0.50935763925561",
+          "change_rate":"-0.022174587922246",
+          "name":"fas-dirhemi",
+          "full_name":"Fas Dirhemi",
+          "code":"MAD"
+        },
+        {
+          "selling":"0.2897685602645",
+          "update_date":"1531377786",
+          "currency":"53",
+          "buying":"0.28789363609202",
+          "change_rate":"0.70405584306175",
+          "name":"moldova-leusu"
+          ,
+          "full_name":"Moldovya Leusu",
+          "code":"MDL"
+       },
+       {
+         "selling":"0.091920213781256",
+         "update_date":"1531380280",
+         "currency":"54",
+         "buying":"0.091364585310306",
+         "change_rate":"0.17110266159695",
+         "name":"makedon-dinari",
+         "full_name":"Makedon Dinarı",
+         "code":"MKD"
+       },
+       {
+         "selling":"1.1896914880436",
+         "update_date":"1531388527",
+         "currency":"55",
+         "buying":"1.1872835230084",
+         "change_rate":"0.061888847629645"
+         ,
+         "name":"malezya-ringgiti",
+         "full_name":"Malezya Ringgiti",
+         "code":"MYR"
+        },
+        {
+          "selling":"12.66683991684",
+          "update_date":"1531341466",
+          "currency":"56",
+          "buying":"12.641298701299",
+          "change_rate":"0.025980774227069",
+          "name":"umman-riyali",
+          "full_name":"Umman Riyali",
+          "code":"OMR"
+          },
+          {
+            "selling":"1.4655267175573",
+            "update_date":"1531388100",
+            "currency":"57",
+            "buying":"1.4605479452055",
+            "change_rate":"0.15243902439025",
+            "name":"peru-inti",
+            "full_name":"Peru İnti",
+            "code":"PEN"
+         },
+         {
+           "selling":"0.089721547374323",
+           "update_date":"1531388527",
+           "currency":"58",
+           "buying":"0.089667414050822",
+           "change_rate":"-0.21441223081942",
+           "name":"filipinler-pesosu","full_name":"Filipinler Pesosu","code":"PHP"
+        },
+        {
+          "selling":"0.039358911296934",
+          "update_date":"1531388527",
+          "currency":"59",
+          "buying":"0.03933606557377",
+          "change_rate":"0.29595527786912",
+          "name":"pakistan-rupisi",
+          "full_name":"Pakistan Rupisi",
+          "code":"PKR"
+        },
+        {
+          "selling":"1.3299631847904",
+          "update_date":"1531380270",
+          "currency":"60",
+          "buying":"1.3283618984838",
+          "change_rate":"0.013735131719918",
+          "name":"katar-riyali",
+          "full_name":"Katar Riyali",
+          "code":"QAR"
+         },
+         {
+           "selling":"0.046854605596448",
+           "update_date":"1531211418",
+           "currency":"61",
+           "buying":"0.046555578375304",
+           "change_rate":"2.1417362223307",
+           "name":"sirbistan-dinari",
+           "full_name":"Sırbistan Dinarı",
+           "code":"RSD"
+        },
+        {
+          "selling":"3.5221667645332",
+          "update_date":"1531388985",
+          "currency":"62",
+          "buying":"3.520143832098",
+          "change_rate":"-0.10995455211846",
+          "name":"singapur-dolari",
+          "full_name":"Singapur Doları",
+          "code":"SGD"
+        },
+        {
+          "selling":"0.0091409375121364",
+          "update_date":"1531256163",
+          "currency":"63",
+          "buying":"0.0091186854970125",
+          "change_rate":"0.048522019292355",
+          "name":"suriye-lirasi",
+          "full_name":"Suriye Lirası",
+          "code":"SYP"
+       },
+       {
+         "selling":"0.14424071179512",
+         "update_date":"1531388978"
+         ,
+         "currency":"64",
+         "buying":"0.1441462828295",
+         "change_rate":"-0.20092967461389",
+         "name":"tayland-bahti",
+         "full_name":"Tayland Bahtı"
+         ,
+         "code":"THB"
+     },
+     {
+       "selling":"0.15706336737366"
+       ,"update_date":"1531388982",
+       "currency":"65",
+       "buying":"0.15685370479367",
+       "change_rate":"-0.31942633637549",
+       "name":"yeni-tayvan-dolari",
+       "full_name":"Yeni Tayvan Doları",
+       "code":"TWD"
+    },
+    {
+      "selling":"0.18729631749666",
+      "update_date":"1531366283",
+      "currency":"66",
+      "buying":"0.18517482517483",
+      "change_rate":"0.47474363843524",
+      "name":"ukrayna-grivnasi",
+      "full_name":"Ukrayna Grivnası",
+      "code":"UAH"
+      },
+      {
+        "selling":"0.15700895713372",
+        "update_date":"1531366283"
+        ,
+        "currency":"67",
+        "buying":"0.15621173469388",
+        "change_rate":"0.15969338869371",
+        "name":"uruguay-pesosu",
+        "full_name":"Uruguay Pesosu",
+        "code":"UYU"}
+       
+	     
+	       
+	 ]}
+	   
